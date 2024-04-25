@@ -1,0 +1,17 @@
+
+†	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$e9649461-2876-443c-bea6-283e876f452d
+†	java:S112Y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$0fa4f448-15e7-4e8c-8fae-912065fe3f9d
+‚	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(çîĞŠJ$1c1a30d9-0c4e-4b52-9428-b0f93762b5f5
+‡	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$c4f539c4-2e94-43af-9389-a4fe1b9fac69
+b
+java:S5164"!Call "remove()" on "updateEvent".(ªÄ¦÷øÿÿÿÿJ$e7fea3a1-88ce-4c17-8b3f-99cbdcc83bf9
+š
+java:S2142N"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$cefaa4e7-a6b0-42e7-8d21-50aa8f24c005
+š
+java:S2142X"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$07713bfb-0272-411a-bd0a-2e8333fbecd9
+p
+java:S2864w"4Iterate over the "entrySet" instead of the "keySet".(ÉÚøÅJ$1a62550c-de66-4551-af9f-e8af388a6672
+—
+java:S1128"[Remove this unused import 'org.telegram.telegrambots.meta.exceptions.TelegramApiException'.(ò¹ôÖJ$869af0c7-b5a3-4bdf-a76d-d8649d057989
+€
+java:S1128"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍJ$efa56be8-95f2-46a0-b9ad-f6bfb7b9de7e
